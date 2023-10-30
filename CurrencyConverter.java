@@ -27,9 +27,10 @@ public class CurrencyConverter {
             
             // Menampilkan hasil konversi
             System.out.println("Jumlah dalam mata uang tujuan: " + amountInDestinationCurrency);
-            System.out.println("ramboooooo");
-            System.out.println("pisau");
-            System.out.println("anjay");
+            System.out.println("M Saifuddin Tamam");
+            System.out.println("202210370311281");
+            System.out.println("press F");
+
         }
     }
 }
